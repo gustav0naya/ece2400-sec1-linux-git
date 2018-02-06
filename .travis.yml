@@ -1,2 +1,3 @@
 script:
-	- grep red README.md
+	-grep red README.md
+	
